@@ -6,13 +6,13 @@
 
 ## Chapter1 计算机网络和因特网
 
-[wireshark lab start]([ComputerNetworkLab/C1_wireshark.md at master · Sodascrew/ComputerNetworkLab (github.com)](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C1/C1_wireshark.md))
+[wireshark lab start](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C1/C1_wireshark.md)
 
 ## Chapter2 应用层
 
-[wireshark lab http and dns]([ComputerNetworkLab/C2_wireshark.md at master · Sodascrew/ComputerNetworkLab (github.com)](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C2/Wireshark_HTTP_DNS/C2_wireshark.md))
+[wireshark lab http and dns](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C2/Wireshark_HTTP_DNS/C2_wireshark.md)
 
-
+[lab1 web server lab](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C2/Lab1_Web_server_Lab/Web_Server_Lab.md)
 
 
 
