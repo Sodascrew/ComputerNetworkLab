@@ -14,7 +14,7 @@
 
 [lab1 web server lab](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C2/Lab1_Web_server_Lab/Web_Server_Lab.md)
 
-
+[lab2 UDP Pinger lab](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C2/Lab2_UDP_Pinger_Lab/UDP_Pinger_Lab.md)
 
 
 
