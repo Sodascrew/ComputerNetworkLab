@@ -6,7 +6,7 @@
 
 ## Chapter1 计算机网络和因特网
 
-[wireshark lab start](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C1/C1_wireshark.md)
+[wireshark lab intro](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C1/C1_wireshark.md)
 
 ## Chapter2 应用层
 
@@ -16,7 +16,9 @@
 
 [lab2 UDP Pinger lab](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C2/Lab2_UDP_Pinger_Lab/UDP_Pinger_Lab.md)
 
+[lab3 SMTP client lab](https://github.com/Sodascrew/ComputerNetworkLab/blob/master/C2/Lab3_SMTP_Lab/Lab3_SMTP_Lab.md)
 
+lab 4 Web Proxy Server (未做)
 
 ---
 
