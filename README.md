@@ -22,7 +22,7 @@ lab 4 Web Proxy Server (未做)
 
 ---
 
-## Bibliography
+## Reference
 
 1.《计算机网络自顶向下方法（第七版）》.[美]詹姆斯·F·库罗斯（James F. Kurose） 基思·W·罗斯（Keith W. Ross）著 陈鸣 译.机械工业出版社.2018.5
 
